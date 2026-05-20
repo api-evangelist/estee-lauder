@@ -4,6 +4,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/EsteeLauder
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/the-estee-lauder-companies-inc
   - type: Website
     url: https://www.estee-lauder.com
 description: >-
