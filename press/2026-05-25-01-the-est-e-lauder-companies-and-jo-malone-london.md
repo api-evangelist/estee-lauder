@@ -1,7 +1,9 @@
 ---
 title: The Estée Lauder Companies and Jo Malone London ...
 url: https://www.googlecloudpresscorner.com/2025-12-02-The-Estee-Lauder-Companies-and-Jo-Malone-London-Introduce-AI-Powered-Scent-Advisor-Experience
-date: '2026-05-25'
+published: '2025-12-02'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Estee Lauder" press release artificial intelligence'
 position: 1
 source: serpapi-google

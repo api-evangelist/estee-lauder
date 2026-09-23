@@ -1,7 +1,9 @@
 ---
 title: Estée Lauder CIO wants to bring AI to the forefront of beauty
 url: https://www.ciodive.com/news/estee-lauder-microsoft-generative-ai-partnership/714472/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Estee Lauder" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Estee Lauder Chooses WPP as Global Media Partner for AI ...
 url: https://www.linkedin.com/posts/danielhulme_delighted-that-est%C3%A9e-lauder-has-chosen-wpp-activity-7447297649948385280-OcXX
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Estee Lauder" press release artificial intelligence'
 position: 4
 source: serpapi-google
